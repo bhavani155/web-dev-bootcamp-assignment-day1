@@ -1,2 +1,2 @@
-# web-dev-bootcamp-assignment-day1
+# web-dev-bootcamp-assignments
 roll no-19JR1A0515
